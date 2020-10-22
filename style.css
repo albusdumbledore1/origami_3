@@ -1,0 +1,54 @@
+
+ img{
+     border-style: solid;
+     border-color:darkblue;
+     border-radius: 2cm;
+     background-color: rgb(46, 173, 46);
+     
+ }
+
+.nonu{
+
+    border:solid;
+background-color: gray;
+    display:flex;
+    /*flex-wrap: wrap;*/
+    justify-content: space-around;
+    border-radius: 2px;
+}
+
+h1{
+text-align: center;
+color:green;
+}
+p,h2,li,h3{
+    text-align: center;
+    color: rgb(0, 109, 0);
+
+}
+
+.siddharth{
+    border-style: solid ;
+    border-radius: -4cm;
+    border-color: rgb(131, 131, 131);
+  background-color: #9edede;
+  display:flex ;
+  justify-content: space-around;
+  padding: 15px;
+  font: 20px;
+
+
+}
+
+body{
+    background-color: rgb(148, 142, 142);
+    margin: 0px;
+}
+
+video{
+    border-style: dashed;
+    border-radius: 1cm;
+    border-color: blue;
+    border-collapse: unset;
+    background-color:lgrey;
+}
